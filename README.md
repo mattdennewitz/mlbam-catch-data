@@ -16,8 +16,6 @@ or
 pip install -r requirements.txt
 ```
 
-```shell
-
 ## Usage
 
 ### Fetch player ids
